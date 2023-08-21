@@ -1,0 +1,6 @@
+customhost = "employee1.ci9mj94nbdh9.us-east-1.rds.amazonaws.com"
+customuser = "intellipat1"
+custompass = "jet_123456"
+customdb = "employee1"
+custombucket = "sureshaddemployee"
+customregion = "us-east-1"
